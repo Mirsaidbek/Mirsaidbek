@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mirsaidbek
-- 👀 I’m interested in Mobile development and 3D animation
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Java
 - 📫 How to reach me Telegram: @MirsaidKarimullaev 
 
