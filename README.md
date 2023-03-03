@@ -4,11 +4,11 @@
   <!-- <img  align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=Mirsaidbek.Mirsaidbek"> -->
 </h1>
 
-<!-- <h3 align="center">Java Backend @ <a href='https://capitecbank.co.za'>Capitec Bank</a> | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3> -->
+ <h3 align="center">Java Backend @ <a href='https://capitecbank.co.za'>Capitec Bank</a> | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 
 <h1 align="center">
 	<a href="https://github.com/ElbekKholmatov" target="_self">
-		<img alt="GIF" src="https://github.com/ElbekKholmatov/ElbekKholmatov/blob/main/Coder%20%5Bgif%5D.gif">
+		<img alt="GIF" src="https://github.com/Mirsaidbek/Mirsaidbek/blob/main/1.gif">
 	</a>
 
 </h1>
