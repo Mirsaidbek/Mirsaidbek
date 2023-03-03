@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mirsaidbek.Mirsaidbek">
 <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hello, I'm Mirsaidbek Karimullaev!; ">
   <!-- <img  align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=Mirsaidbek.Mirsaidbek"> -->
@@ -10,7 +10,6 @@
 	<a href="https://github.com/ElbekKholmatov" target="_self">
 		<img alt="GIF" src="https://github.com/Mirsaidbek/Mirsaidbek/blob/main/1.gif">
 	</a>
-
 </h1>
 <br>
 
@@ -40,6 +39,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
+
 <p align="left"> 
 	
 <a href="https://www.java.com/en/">
@@ -59,7 +59,6 @@
 </a>&nbsp;
 &nbsp;
 
-
   <!-- <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
@@ -71,8 +70,8 @@
   &emsp;
 </p> -->
 
-
 ### 👉 Frameworks
+
 <p>
 	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
@@ -83,6 +82,7 @@
 </p>
 
 ### 👉 Databases & Cloud Hosting
+
 <p>
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/postgresql-008bb9?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
@@ -94,6 +94,7 @@
  </p>
 
 ### 👉 Software & Tools
+
  <p>
 
 <img src="https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black" />&nbsp;&nbsp;
@@ -111,7 +112,7 @@
 <!-- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp; -->
-<!-- 
+<!--
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp; -->
@@ -120,14 +121,11 @@
 <!-- <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/OpenApi-6BA539?&style=for-the-badge&logo=openapi-initiative&logoColor=F7F7F7" />&nbsp;&nbsp; -->
 
-
-
-
 </p>
 
 <hr>
 
-<!-- 
+<!--
 ## 📘 My top open source projects
 
 <table>
@@ -165,7 +163,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-### :fire: LeetCode 
+### :fire: LeetCode
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/Mirsaid0077?theme=dark&font=source_code_pro&extension=activity)
 
 ### :fire: Github
@@ -174,7 +173,6 @@
 
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mirsaidbek&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
 
    <p align="center">
           <a href="https://github.com/Mirsaidbek/">
@@ -205,7 +203,6 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 
 <div>
      <h1 align="center">
