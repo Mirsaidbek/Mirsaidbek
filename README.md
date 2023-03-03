@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mirsaidbek.Mirsaidbek">
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hello, I'm Mirsaidbek Karimullaev!; ">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hello, I'm Mirsaidbek Karimullaev!;Welcome to my profile on Github! ">
   <!-- <img  align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=Mirsaidbek.Mirsaidbek"> -->
 </h1>
 
