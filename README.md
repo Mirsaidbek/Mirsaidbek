@@ -46,10 +46,10 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
 &emsp;
-<a href="https://jakarta.ee/">
+<!-- <a href="https://jakarta.ee/">
     <img alt="Java" src="https://img.shields.io/badge/Jakarta-ED8B00?style=for-the-badge&logo=jakarta&logoColor=white"/>
   </a>
-&emsp;
+&emsp; -->
 <a href="https://html.com/html5/">
 <img src="https://img.shields.io/badge/html5%20-%53F7AF5E.svg?&style=for-the-badge&color=E3426&logo=html5" />
 </a>&nbsp;
@@ -75,6 +75,10 @@
 <p>
 	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
+	<a href="https://jakarta.ee/">
+    <img alt="Java" src="https://img.shields.io/badge/Jakarta-ED8B00?style=for-the-badge&logo=jakarta&logoColor=white"/>
+  	</a>
+	&emsp;&emsp;
 	<!-- <img src="http://img.shields.io/badge/-Project%20Reactor-6db33f?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp;&nbsp; -->
