@@ -98,12 +98,8 @@
  <p>
 
 <img src="https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/intellijidea
--E24F1D?style=for-the-badge&logo=intellijidea
-&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/vscode
--E24F1D?style=for-the-badge&logo=visualstudiocode
-&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/intellijidea-E24F1D?style=for-the-badge&logo=intellijidea&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/vscode-E24F1D?style=for-the-badge&logo=visualstudiocode&logoColor=black" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mailtrap-0052CC?style=for-the-badge&logo=mailtrap&logoColor=white" />&nbsp;&nbsp;
