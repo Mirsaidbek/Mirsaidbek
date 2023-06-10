@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mirsaidbek.Mirsaidbek">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mirsaidbek.Mirsaidbek"> -->
 <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hello, I'm Mirsaidbek Karimullaev!;Welcome to my profile on Github! ">
   <!-- <img  align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=Mirsaidbek.Mirsaidbek"> -->
