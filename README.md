@@ -7,7 +7,7 @@
 <!--  <h3 align="center">Java Backend @ <a href='https://capitecbank.co.za'>Capitec Bank</a> | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3> -->
 
 <h1 align="center">
-	<a href="https://github.com/ElbekKholmatov" target="_self">
+	<a href="https://github.com/Mirsaidbek" target="_self">
 		<img alt="GIF" src="https://github.com/Mirsaidbek/Mirsaidbek/blob/main/1.gif">
 	</a>
 </h1>
