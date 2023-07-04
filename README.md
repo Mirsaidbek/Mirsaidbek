@@ -169,7 +169,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mirsaidbek&theme=one-dark-pro&border_radius=5 https://git.io/streak-stats)" alt="Mirsaidbek" /></p> -->
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mirsaidbek&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mirsaidbek&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
    <p align="center">
