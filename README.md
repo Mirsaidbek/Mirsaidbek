@@ -161,9 +161,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-### :fire: LeetCode
+<!--### :fire: LeetCode-->
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Mirsaid0077?theme=dark&font=source_code_pro&extension=activity)
+<!--![LeetCode Stats](https://leetcode.card.workers.dev/Mirsaid0077?theme=dark&font=source_code_pro&extension=activity)-->
 
 ### :fire: Github
 
