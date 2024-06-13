@@ -16,10 +16,10 @@
 <hr>
 <pre>
 💻 I am Java backend and Database developer.
-📚 I'm 3rd year student at INHA University in Tashkent
+📚 I'm 4rd year student at INHA University in Tashkent
 📝 I have a strong interest in Web Development and AI
 🌟 Main languages: Java
-👨‍💻 I’m currently open for work
+<!-- 👨‍💻 I’m currently open for work -->
 </pre>
 <hr>
 
