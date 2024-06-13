@@ -16,7 +16,7 @@
 <hr>
 <pre>
 💻 I am Java backend and Database developer.
-📚 I'm 4rd year student at INHA University in Tashkent
+📚 I'm 4th year student at INHA University in Tashkent
 📝 I have a strong interest in Web Development and AI
 🌟 Main languages: Java
 <!-- 👨‍💻 I’m currently open for work -->
@@ -122,42 +122,6 @@
 </p>
 
 <hr>
-
-<!--
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-	  <tr>
-      <td><a href="https://github.com/ElbekKholmatov/OnlineMedClinic"><b>Online Med Clinic</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ElbekKholmatov/RealEstate"><b>Bot Working With Real Estates</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ElbekKholmatov/OnlineShop"><b>Online Shop</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	<tr>
-      <td><a href="https://github.com/ElbekKholmatov/Library"><b>Book Store</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-<br> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
