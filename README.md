@@ -28,6 +28,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirsaidbek-karimullaev-69860b1b7/)
 [![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mirsaidkarimullaev)
+[![image](https://img.shields.io/badge/Gmail-37J5E5svg?style=for-the-badge&logo=gmail&logoColor)](mirsaidkarimullaev@gmail.com)
 
 <!-- [![image](https://img.shields.io/badge/Gmail-37J5E5svg?style=for-the-badge&logo=gmail&logoColor=Blue)](https://t.me/mirsaidkarimullaev) -->
 
