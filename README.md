@@ -161,14 +161,14 @@
 
 </div>
 
-<div align="center">
+<!--<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div>  -->
 
 <div>
      <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thank+you+for+visiting;See+you+soon!!">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thank+you+for+visiting;See+you+soon!">
 </h1>
 </div>
