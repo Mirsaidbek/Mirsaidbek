@@ -17,7 +17,7 @@
 <pre>
 💻 I am Java backend and Database developer.
 📚 I'm IUT alumni.
-📝 I have a strong interest in Web Development and AI
+📝 I have a strong interest in Web Development, AI, Game dev and new technologies
 🌟 Main languages: Java
 👨‍💻 I’m currently open for work
 </pre>
